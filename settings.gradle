@@ -1,0 +1,2 @@
+include ':fireoff'
+rootProject.name = "fireoff"
